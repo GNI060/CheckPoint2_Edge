@@ -37,7 +37,7 @@ Software
 ### Instalação
 
 1. Baixe e instale o [Arduino IDE](https://www.arduino.cc/en/software).
-2. Copie o código do projeto no Wokwi por [aqui]().
+2. Copie o código do projeto no Wokwi por [aqui](https://wokwi.com/projects/412632960863151105).
 3. Cole o código na IDE do Arduino.
 4. Verifique se as bibliotecas necessárias estão instaladas.
 5. Conecte seu Arduino ao computador.
